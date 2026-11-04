@@ -1,0 +1,259 @@
+# AI Student Learning and Career Success Platform
+
+## W2 – Week 2: AI App Development
+
+**Team Milestone:** Build + Connect  
+**Phase:** Phase 1  
+**Role:** AI Product App Engineer  
+**Working Hours:** Approximately 4 hours per day
+
+---
+
+## 1. Project Overview
+
+The AI Student Learning and Career Success Platform is designed to help students improve their technical knowledge, practise skills, track learning progress and prepare for career opportunities.
+
+The platform provides separate features for three main users:
+
+- Admin
+- Trainer
+- Student
+
+Each user has different responsibilities and dashboard features.
+
+## 2. Week 2 Goal
+
+The main goal of Week 2 is to develop the main application screens, connect the frontend with the database and backend services, add Generative AI features and test the application.
+
+## 3. Week 2 Tasks
+
+### Task 1: Develop Main Application Screens
+
+Continue developing the main screens of the application.
+
+Main screens:
+
+1. Home Page
+2. Login Page
+3. Registration Page
+4. Admin Dashboard
+5. Trainer Dashboard
+6. Student Dashboard
+
+Improve the design, navigation and functionality of each screen.
+
+### Task 2: Complete Login and Registration
+
+Work on the login and registration functionality.
+
+Login inputs:
+- Email address
+- Password
+- Login button
+
+Registration inputs:
+- Full name
+- Email address
+- Password
+- Confirm password
+- Register button
+
+Validate the user information and provide proper messages when login or registration is successful or unsuccessful.
+
+### Task 3: Connect the Application with SQL Database
+
+Connect the application with the database using Supabase.
+
+Database information includes:
+
+- User details
+- Student information
+- Trainer information
+- Course details
+- Student learning records
+- Student progress
+- Trainer and student assignments
+
+Retrieve database information and display it on the correct dashboard.
+
+### Task 4: Python and API Integration
+
+Understand how Python and APIs communicate with the application.
+
+Main activities:
+
+- Retrieve application information.
+- Process student learning data.
+- Send requests to backend APIs.
+- Receive API responses.
+- Display processed information on the frontend.
+
+### Task 5: Add Generative AI Features
+
+Add Generative AI features to improve the student learning experience.
+
+The AI Learning Assistant can:
+
+- Answer student questions.
+- Explain Python concepts.
+- Explain SQL topics.
+- Explain statistics concepts.
+- Provide learning suggestions.
+- Help students understand difficult topics.
+- Generate practice questions.
+
+### Task 6: Handle Loading, Empty, Validation and Error States
+
+**Loading State:** Display a loading message while retrieving information.
+
+**Empty State:** Display a message when no records are available.
+
+**Validation State:** Check whether users enter correct information.
+
+**Error State:** Display a proper message when an operation fails.
+
+**Success State:** Display a confirmation message when an action is completed successfully.
+
+### Task 7: Team Collaboration
+
+Work with the other two team members to connect different parts of the project.
+
+Activities include:
+
+- Share development updates.
+- Discuss technical problems.
+- Share project code.
+- Connect frontend and backend.
+- Coordinate API requirements.
+- Test the combined application.
+
+### Task 8: Application Testing
+
+Test the main application features.
+
+Testing activities:
+
+- Admin login.
+- Trainer login.
+- Student login.
+- Registration functionality.
+- Dashboard navigation.
+- Database connectivity.
+- API responses.
+- AI assistant responses.
+- Form validation.
+- Error handling.
+
+## 4. Application User Flow
+
+Home Page
+↓
+Login / Registration
+↓
+User Authentication
+↓
+Role Verification
+↓
+Admin Dashboard / Trainer Dashboard / Student Dashboard
+↓
+Database and API Services
+↓
+Display Application Results
+
+## 5. Technologies Used
+
+- React.js
+- TypeScript
+- Vite
+- Node.js
+- Express
+- Supabase
+- SQL
+- Python
+- Google Gemini API
+- Tailwind CSS
+- Git
+- GitHub
+- Google AI Studio
+
+## 6. How to Run the Project
+
+First, install Node.js and npm.
+
+Clone the GitHub repository:
+
+```bash
+git clone <your-github-repository-url>
+```
+
+Open the project folder:
+
+```bash
+cd <project-folder>
+```
+
+Install the required packages:
+
+```bash
+npm install
+```
+
+Configure the required environment variables in the `.env.local` file.
+
+Start the application:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in the terminal.
+
+## 7. Week 2 Testing
+
+Check the following application features:
+
+- Admin dashboard access.
+- Trainer dashboard access.
+- Student dashboard access.
+- Login and registration.
+- Database information retrieval.
+- Python and API integration.
+- AI Learning Assistant.
+- Form validation.
+- Loading messages.
+- Empty data messages.
+- Error messages.
+- Application navigation.
+
+## 8. Proof of Work
+
+The following evidence should be added to GitHub:
+
+1. Updated project source code.
+2. Home Page screenshot.
+3. Login Page screenshot.
+4. Registration Page screenshot.
+5. Admin Dashboard screenshot.
+6. Trainer Dashboard screenshot.
+7. Student Dashboard screenshot.
+8. Supabase database connection evidence.
+9. Python/API output screenshots.
+10. AI Learning Assistant screenshots.
+11. Form validation screenshots.
+12. Application demonstration video.
+
+## 9. What I Learned in Week 2
+
+During Week 2, I improved my understanding of application development and frontend and backend integration.
+
+I learned how application screens communicate with database services and how information can be retrieved and displayed dynamically.
+
+I also understood how Python and APIs can process information and send results to the frontend.
+
+I explored Generative AI features and learned how an AI Learning Assistant can support students by answering questions and explaining technical concepts.
+
+I also learned the importance of application testing, form validation, loading messages, empty states and error handling.
+
+## 10. Expected Week 2 Outcome
+
+By the end of Week 2, the main application screens should be developed and
