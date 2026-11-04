@@ -1,0 +1,175 @@
+# W3 – AI App Development
+## Week 3: Complete + Analyze + Showcase
+
+**Project:** AI Student Learning and Career Success Platform  
+**Role:** AI Product App Engineer  
+**Expected Work:** Approximately 4 hours per day  
+**Phase:** Phase 1 – Proof Submission
+
+---
+
+## 1. Week 3 Overview
+
+The objective of Week 3 is to complete the remaining Phase 1 application screens, integrate the required features, improve the user experience, perform end-to-end testing, and prepare the application for the team V1 demonstration.
+
+As an AI Product App Engineer, my responsibility is to work on the frontend application, user interfaces, role-based navigation, integrations, testing, and product demonstration.
+
+## 2. Week 3 Objectives
+
+- Complete the remaining Phase 1 application screens.
+- Integrate frontend screens with backend services and Supabase.
+- Improve application usability and responsive design.
+- Test Admin, Trainer, and Student user workflows.
+- Identify and fix application errors.
+- Verify the AI chatbot functionality.
+- Prepare screenshots and testing evidence.
+- Demonstrate the working application during the team V1 demo.
+
+## 3. Tasks and Responsibilities
+
+### Task 1: Complete Remaining Phase 1 Screens
+
+- Review existing application screens.
+- Complete pending Admin Dashboard components.
+- Complete pending Trainer Dashboard components.
+- Complete pending Student Dashboard components.
+- Verify navigation between screens.
+- Check login, registration, and role-based dashboard access.
+
+### Task 2: Improve Usability and Responsive Layout
+
+- Improve the overall application interface.
+- Maintain consistent colours, fonts, buttons, and spacing.
+- Improve dashboard navigation and user experience.
+- Make the application responsive for desktop, tablet, and mobile devices.
+- Validate forms and input fields.
+- Display understandable messages for invalid inputs and unavailable data.
+
+### Task 3: Frontend and Backend Integration
+
+- Connect frontend components with the required backend services.
+- Verify Supabase database connectivity.
+- Check that application data is displayed correctly.
+- Verify API request and response handling.
+- Test the AI chatbot integration.
+- Handle missing or unexpected responses appropriately.
+
+### Task 4: End-to-End Testing
+
+**Admin Testing**
+- Verify Admin login.
+- Check Admin Dashboard navigation.
+- Test trainer approval and student management.
+- Verify trainer and student assignment functionality.
+
+**Trainer Testing**
+- Verify Trainer login.
+- Check Trainer Dashboard access.
+- Verify assigned student information.
+- Test available trainer actions.
+
+**Student Testing**
+- Verify Student registration and login.
+- Check Student Dashboard access.
+- Verify student learning information.
+- Test AI chatbot questions and responses.
+
+### Task 5: Testing and Bug Fixing
+
+- Identify UI and navigation issues.
+- Check authentication and integration errors.
+- Review browser console errors.
+- Fix identified problems.
+- Re-test features after applying fixes.
+- Document unresolved issues for future improvements.
+
+### Task 6: Product Demonstration
+
+- Prepare the application for the team V1 demo.
+- Demonstrate Admin, Trainer, and Student workflows.
+- Show the AI chatbot functionality.
+- Explain the frontend and backend integration.
+- Present completed features with actual working evidence.
+- Explain my individual contribution to the project.
+
+## 4. Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| React | Frontend development |
+| TypeScript | Type-safe application development |
+| Vite | Development and build tool |
+| Tailwind CSS | UI styling and responsive design |
+| Supabase | Database and authentication services |
+| SQL | Structured data management |
+| Node.js / Express | Backend services |
+| Google Gemini API | Generative AI functionality |
+| Git and GitHub | Version control and collaboration |
+
+## 5. Main Application Modules
+
+1. Admin Dashboard
+2. Trainer Dashboard
+3. Student Dashboard
+4. User Authentication
+5. Role-Based Navigation
+6. Student Learning Information
+7. AI Student Analytics Chatbot
+8. Trainer and Student Management
+
+## 6. Testing Checklist
+
+- [ ] Admin login and dashboard access.
+- [ ] Trainer login and dashboard access.
+- [ ] Student registration and login.
+- [ ] Role-based navigation.
+- [ ] Dashboard data loading.
+- [ ] Trainer approval functionality.
+- [ ] Student assignment functionality.
+- [ ] AI chatbot interaction.
+- [ ] Frontend and backend integration.
+- [ ] Responsive layout testing.
+- [ ] Error handling and validation.
+- [ ] Final application demonstration.
+
+## 7. Proof of Work
+
+The following evidence will be added to this repository:
+
+- Admin Dashboard screenshots.
+- Trainer Dashboard screenshots.
+- Student Dashboard screenshots.
+- Login and registration screenshots.
+- AI chatbot interaction screenshots.
+- End-to-end testing evidence.
+- Bug-fixing evidence.
+- Product demonstration video.
+
+## 8. Week 3 Deliverables
+
+| Deliverable | Description |
+|---|---|
+| Application Screens | Completed assigned Phase 1 screens |
+| UI Improvements | Better usability and responsive design |
+| Integrations | Verified required frontend connections |
+| Testing | Admin, Trainer, and Student workflow testing |
+| Bug Fixes | Issues identified and fixes documented |
+| Documentation | Updated GitHub README and proof |
+| V1 Demo | Working application demonstration |
+
+## 9. Expected Outcome
+
+By the end of Week 3, the goal is to complete my assigned Phase 1 responsibilities, improve the application interface, verify the main user workflows, fix identified issues, and showcase the working application during the team V1 demonstration.
+
+## 10. Individual Contribution
+
+As an AI Product App Engineer, my contribution focuses on frontend application development, dashboard interfaces, role-based navigation, backend integration, usability improvements, testing, and product demonstration.
+
+I will provide evidence of my completed work through GitHub commits, screenshots, testing results, and the team V1 demo.
+
+---
+
+**Team Milestone:** W3 – Complete + Analyze + Showcase  
+**Project:** AI Student Learning and Career Success Platform  
+**Role:** AI Product App Engineer  
+**Submission:** GitHub README, source code, screenshots, testing evidence, and V1 demo.
