@@ -1,0 +1,147 @@
+# AI Student Learning and Career Success Platform
+
+## W1 – Week 1: AI App Development
+
+### 1. Project Overview
+
+The AI Student Learning and Career Success Platform is designed to help students improve their learning skills, practise technical subjects, track their progress and prepare for career opportunities.
+
+This platform also helps trainers manage students and monitor their learning activities.
+
+### 2. Week 1 Goal
+
+The main goal of Week 1 is to understand the project, plan the application screens and build the basic application using Google AI Studio.
+
+### 3. My Role
+
+**AI Product App Engineer**
+
+### 4. Week 1 Tasks
+
+- Understand the project and its main purpose.
+- Plan the application user flow.
+- Design up to five main application screens.
+- Set up the project using Google AI Studio.
+- Create forms, input fields and buttons.
+- Build basic application navigation.
+- Connect application screens with project data.
+- Understand the basic technologies used in the project.
+- Test the basic application features.
+- Prepare proof of work for the mentor.
+
+### 5. Main Application Modules
+
+The project includes the following modules:
+
+1. Admin Dashboard
+2. Trainer Dashboard
+3. Student Dashboard
+4. User Login and Registration
+5. AI Learning Assistant
+6. Student Progress Tracking
+
+### 6. Technologies Used
+
+- Frontend: React.js
+- Programming Language: TypeScript
+- Build Tool: Vite
+- Backend: Node.js and Express
+- AI Integration: Google Gemini API
+- Database: Supabase
+- Styling: Tailwind CSS
+- Development Tool: Google AI Studio
+- Code Editor: Visual Studio Code
+- Version Control: Git and GitHub
+
+### 7. Project Folder Structure
+
+```text
+AI-Student-Learning-Career-Success-Platform/
+│
+├── src/
+│   ├── components/
+│   │   ├── ai/
+│   │   └── dashboards/
+│   │       ├── admin/
+│   │       ├── student/
+│   │       ├── trainer/
+│   │       └── shared/
+│   │
+│   ├── context/
+│   ├── lib/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── public/
+├── server.ts
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+### 8. How to Run the Project
+
+First, install Node.js and npm.
+
+Open the project folder in Visual Studio Code and run the following commands:
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the application:
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in the terminal to view the application.
+
+### 9. What I Learned in Week 1
+
+- I understood the purpose and objectives of the project.
+- I learned how to plan application screens.
+- I understood basic React components.
+- I learned about forms, input fields and buttons.
+- I understood application navigation.
+- I learned about connecting project data.
+- I understood the basic use of Google AI Studio.
+- I learned how GitHub helps manage project code.
+
+### 10. Proof of Work
+
+The following evidence can be added to the repository:
+
+- Application screenshots.
+- Login and registration page screenshots.
+- Dashboard screenshots.
+- Google AI Studio screenshots.
+- Screenshots of the application running.
+- Project source code.
+
+### 11. Week 1 Outcome
+
+By the end of Week 1, I understood the project structure, planned the application screens and worked on the basic application setup and development.
+
+I also learned the basic tools and technologies required for the project.
+
+### 12. Next Steps
+
+- Improve application design.
+- Complete screen navigation.
+- Test login and registration.
+- Connect application data.
+- Improve dashboard functionality.
+- Continue learning AI application development.
+
+---
+
+**Project:** AI Student Learning and Career Success Platform
+
+**Phase:** Phase 1
+
+**Week:** Week 1
+
+**Role:** AI Product App Engineer
